@@ -1,4 +1,4 @@
-readme_content = """# ⚡ Análise de Consumo de Energia e Sustentabilidade
+# ⚡ Análise de Consumo de Energia e Sustentabilidade
 
 Este repositório contém o projeto de clusterização de dados de consumo de energia elétrica, desenvolvido para a disciplina de Inteligência Artificial.
 
